@@ -22,7 +22,8 @@ var ball = {
 }
 
 function setup(){
-  var canvas =  createCanvas(700,600);
+  var canvas =  createCanvas(700,500);
+  canvas.position(400, 100);
 }
 
 
